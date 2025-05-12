@@ -24,7 +24,7 @@ If you're using **Lean 4**, note that this is a standalone Lean file. To make it
     lake exe cache get
     ```
 
-3. Copy and paste the contents of `banach.lean` into the `Main.lean` file in your project, or place `banach.lean` in the `./Lean/` directory and import it in `Main.lean`.
+3. Copy and paste the contents of `Project 2.lean` into the `Main.lean` file in your project, or place `Project 2.lean` in the `./Lean/` directory and import it in `Main.lean`.
 
 4. Build the project:
     ```bash
