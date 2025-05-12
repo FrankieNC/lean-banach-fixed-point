@@ -1,7 +1,7 @@
 # lean-banach-fixed-point
 This repository contains a Lean formalization of the **Banach Fixed Point Theorem** (also known as the **Contraction Mapping Theorem**), a fundamental result in metric space theory. The theorem guarantees the existence and uniqueness of fixed points for certain self-maps in complete metric spaces.
 
-This project was completed as part of my coursework for the **Formalising Mathematics** module at **Imperial College London (2025)**. I chose this result because it's one of my personal favourites—elegant, powerful, and widely applicable across analysis and differential equations.
+This project was completed as part of my coursework for the **Formalising Mathematics** module at **Imperial College London (2025)**. I chose this result because it's one of my personal favourites — elegant, powerful, and widely applicable across analysis and differential equations.
 
 In addition to the Lean formalization, I have included a short report explaining the theorem, the formalization process, and some reflections on working with Lean and mathlib.
 
